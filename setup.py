@@ -10,7 +10,7 @@ def get_requirement()->List[str]:
 
 setup(
 
-    name = 'Sensor',
+    name = 'sensor',
     version = '0.0.1',
     author = 'AIWalaBro',
     author_email = 'aiwalabro@gmail.com',
