@@ -1,1 +1,1 @@
-DATABASE_NAME = 'AIWalaBro'
+DATABASE_NAME = 'ineuron'
